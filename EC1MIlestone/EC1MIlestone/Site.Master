@@ -1,0 +1,130 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="EC1MIlestone.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script src="Scripts/bootstrap.bundle.min.js"></script>
+    <link href="Content/site.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-expand navbar-light bg-info">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="Default.aspx">G-TAB</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                <div class="navbar-collapse collapse" id="navbarSupportedContent" runat="server">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="Default.aspx">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="LOPTest.aspx">List of Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="About.aspx">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Contact.aspx">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="UserLogin.aspx">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="UserSignUp.aspx">Sign Up</a>
+                            </li>
+                        </ul>
+                </div>
+                <div class="navbar-collapse collapse" id="navbarAdminContent" runat="server">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item" >
+                                <a class="nav-link active" href="Default.aspx">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="LOPTest.aspx">List of Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="AddProduct.aspx">Add Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Update Product.aspx">Update Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="DeleteProduct.aspx">Delete Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link"  onServerClick="signout" href="Default.aspx">Logot</a>
+                            </li>
+                        </ul>
+                </div>
+                <div class="navbar-collapse collapse" id="navbarCustomerContent" runat="server">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="Default.aspx">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="LOPTest.aspx">List of Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="About.aspx">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Contact.aspx">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="AddToCart.aspx">Add To Cart</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link"  onServerClick="signout" href="Default.aspx">Logot</a>
+                            </li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fe24fde-264f-4d63-abb5-091ff2ebbc92": {
+      "ProjectGuid": "5fe24fde-264f-4d63-abb5-091ff2ebbc92",
+      "DisplayName": "EC1MIlestone",
+      "ColorIndex": 0
+    },
+    "60ef2da8-9ff3-43b5-aa4b-b747f46484bb": {
+      "ProjectGuid": "60ef2da8-9ff3-43b5-aa4b-b747f46484bb",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

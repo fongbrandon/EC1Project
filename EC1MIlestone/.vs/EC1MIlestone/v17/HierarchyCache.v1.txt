@@ -1,0 +1,321 @@
+﻿++Solution 'EC1MIlestone' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:EC1MIlestone.sln
+++EC1MIlestone
+i:{00000000-0000-0000-0000-000000000000}:EC1MIlestone
+++Properties
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\properties\
+++References
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++App_Data
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\app_data\
+++App_Start
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\app_start\
+++Assets
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\
+++Content
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\
+++bootstrap-grid.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.bundle.min.js
+++bootstrap.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.css
+++bootstrap.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.css.map
+++bootstrap.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\bootstrap.rtl.min.css.map
+++Site.css
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\content\site.css
+++fonts
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\
+++Scripts
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\
+++WebForms
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\
+++bootstrap.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\bootstrap.js
+++bootstrap.min.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\bootstrap.min.js
+++jquery-3.6.0.intellisense.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.intellisense.js
+++jquery-3.6.0.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.js
+++jquery-3.6.0.min.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.min.js
+++jquery-3.6.0.min.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.min.map
+++jquery-3.6.0.slim.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.slim.js
+++jquery-3.6.0.slim.min.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.slim.min.js
+++jquery-3.6.0.slim.min.map
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\jquery-3.6.0.slim.min.map
+++modernizr-2.8.3.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\modernizr-2.8.3.js
+++About.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\about.aspx
+++Bundle.config
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\bundle.config
+++Contact.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\contact.aspx
+++Default.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\default.aspx
+++favicon.ico
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\favicon.ico
+++Global.asax
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\global.asax
+++LOP.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\lop.aspx
+++packages.config
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\packages.config
+++Site.Master
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.master
+++Site.Mobile.Master
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.mobile.master
+++ViewSwitcher.ascx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\viewswitcher.ascx
+++Web.config
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\web.config
+++AssemblyInfo.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++AspNet.ScriptManager.bootstrap
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++AspNet.ScriptManager.jQuery
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.AspNet.FriendlyUrls
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.CSharp
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.ScriptManager.MSAjax
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.ScriptManager.WebForms
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Microsoft.Web.Infrastructure
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++Newtonsoft.Json
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.ComponentModel.DataAnnotations
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Configuration
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Core
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Data
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Data.DataSetExtensions
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Drawing
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.EnterpriseServices
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.ApplicationServices
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.DynamicData
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.Entity
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.Extensions
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.Optimization
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Web.Services
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Xml
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++System.Xml.Linq
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++WebGrease
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:
+++BundleConfig.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\app_start\routeconfig.cs
+++Adjustable_Shocks_Shock_Absorber.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\adjustable_shocks_shock_absorber.jpeg
+++Brake_Pads.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\brake_pads.jpeg
+++Brake_Shoes.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\brake_shoes.jpeg
+++camshaft.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\camshaft.jpeg
+++Cylinder_Head_Gasket.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\cylinder_head_gasket.jpeg
+++Piston.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\piston.jpeg
+++spark_plug.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\spark_plug.jpeg
+++stabilizer_bar.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\stabilizer_bar.jpeg
+++stabilizer_bar_link.jpeg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\assets\stabilizer_bar_link.jpeg
+++glyphicons-halflings-regular.eot
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\fonts\glyphicons-halflings-regular.woff2
+++MSAjax
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\
+++DetailsView.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\detailsview.js
+++Focus.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\focus.js
+++GridView.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\gridview.js
+++Menu.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\menu.js
+++MenuStandards.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\smartnav.js
+++TreeView.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\treeview.js
+++WebForms.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\webforms.js
+++WebParts.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\webuivalidation.js
+++About.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\about.aspx.cs
+++About.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\about.aspx.designer.cs
+++Contact.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\contact.aspx.designer.cs
+++Default.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\default.aspx.cs
+++Default.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\default.aspx.designer.cs
+++Global.asax.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\global.asax.cs
+++LOP.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\lop.aspx.cs
+++LOP.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\lop.aspx.designer.cs
+++Site.Master.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.master.cs
+++Site.Master.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.master.designer.cs
+++Site.Mobile.Master.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\site.mobile.master.designer.cs
+++ViewSwitcher.ascx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\viewswitcher.ascx.designer.cs
+++Web.Debug.config
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\web.debug.config
+++Web.Release.config
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\web.release.config
+++MicrosoftAjax.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\scripts\webforms\msajax\microsoftajaxwebservices.js
+++Products.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\products.cs
+++ShoppingCart.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\shoppingcart.cs
+++Solution Items
+++AddToCart.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\addtocart.aspx
+++AddToCart.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\addtocart.aspx.cs
+++AddToCart.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\addtocart.aspx.designer.cs
+++Listofproducts.aspx
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\listofproducts.aspx
+++Listofproducts.aspx.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\listofproducts.aspx.cs
+++Listofproducts.aspx.designer.cs
+i:{5fe24fde-264f-4d63-abb5-091ff2ebbc92}:c:\users\sylvester fong\source\repos\ec1milestone\ec1milestone\listofproducts.aspx.designer.cs
