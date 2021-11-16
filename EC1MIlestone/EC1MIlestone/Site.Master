@@ -63,7 +63,7 @@
                                 <a class="nav-link" href="Contact.aspx">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="UserLogin.aspx">Login</a>
+                                <a class="nav-link" href="SignIn.aspx">Login</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="UserSignUp.aspx">Sign Up</a>
