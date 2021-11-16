@@ -19,23 +19,24 @@ namespace EC1MIlestone
 
         protected void Login_Click(object sender, EventArgs e)
         {
-                 // Default UserStore constructor uses the default connection string named: DefaultConnection
-         var userStore = new UserStore<IdentityUser>();
-         var manager = new UserManager<IdentityUser>(userStore);
-         var user = new IdentityUser() { UserName = Username.Text };
-            IdentityResult result = manager.Create(user, Password.Text);
+            var userStore = new UserStore<IdentityUser>();
+            var userManager = new UserManager<IdentityUser>(userStore);
+            var user = userManager.Find(Usernameentry.Text, Passwordentry.Text);
+            try
+            {
+                if (user != null)
+                {
+                    var authenticationManager = HttpContext.Current.GetOwinContext().Authentication;
+                    var userIdentity = userManager.CreateIdentity(user, DefaultAuthenticationTypes.ApplicationCookie);
 
-         if (result.Succeeded)
-         {
-            var authenticationManager = HttpContext.Current.GetOwinContext().Authentication;
-            var userIdentity = manager.CreateIdentity(user, DefaultAuthenticationTypes.ApplicationCookie);
-            authenticationManager.SignIn(new AuthenticationProperties() { }, userIdentity);
-            Response.Redirect("~/Default.aspx"); // go to homepage instead
-         }
-         else
-         {
-            StatusMessage.Text = result.Errors.FirstOrDefault();
-         }
+                    authenticationManager.SignIn(new AuthenticationProperties() { IsPersistent = false }, userIdentity);
+                    Response.Redirect("~/Default.aspx");
+                }
+            }
+            catch (Exception ex)
+            {
+                Response.Write("Error Generated. Details: " + ex.ToString());
+            }
         }
     }
 }
